@@ -1,5 +1,5 @@
 # Généralités
-THS en DIY signifie qu'on gère son traitement hormonal avec des hormones achetées en dehors du circuit pharmaceutique classique, en gérant soi-même ses dosages, et souvent sans suivi d'un médecin. Ce dernier point n'est pas une généralité : il y a en effet des médecins qui acceptent d'assurer le suivi des personnes trans en DIY dans un but de RdR.
+THS en DIY signifie qu'on gère son traitement hormonal avec des hormones achetées en dehors du circuit pharmaceutique classique, en gérant soi-même ses dosages, et souvent sans suivi d'un médecin. Ce dernier point n'est pas une généralité : il y a en effet des médecins qui acceptent d'assurer le suivi des personnes trans en DIY dans un but de réduction des risques.
 
 Avec ou sans suivi d'un médecin, il reste **primordial** de faire des prises de sang régulièrement : mensuellement au début, puis semestriellement voir annuellement une fois qu'on a trouvé le bon dosage. Voir plus bas dans le présent document.
 

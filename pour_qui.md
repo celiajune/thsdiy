@@ -9,4 +9,4 @@ Dans la section [ressources](./ressources) en fin de ce guide, tu trouveras plei
 
 En parallèle de ce document, je t'encourage à te rapprocher des assos trans locales de ta région ainsi que du [serveur Discord](https://www.fransgenre.fr/website/social/discord) de l'association [Fransgenre](https://www.fransgenre.fr), sur lequel tu trouveras de la pairaidance de qualité.
 
-Enfin, il existe une [version super raccourcie](./diy_tldr) de ce guide.
+Enfin, il existe une [version super raccourcie](./tldr) de ce guide.

@@ -22,7 +22,7 @@ L'estérification rend la molécule lipophile : elle se lie aux huiles. C'est p
 
 Les huiles utilisées sont l'huile de ricin, l'huile de pépin de raisin ou l'huile MCT. Elles ont chacune leurs petites différences et leur viscosité, qui peut être modifiée par un fluidifiant au moment de la fabrication.
 
-**Dans un premier temps, tu t'en fous pas mal du choix de l'huile** 😄
+**Dans un premier temps, tu t'en fous pas mal, du choix de l'huile** 😄
 
 ### Quantité à acheter
 L'estradiol injectable est vendu dans de petites fioles de verre.

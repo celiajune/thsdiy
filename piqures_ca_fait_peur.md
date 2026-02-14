@@ -3,9 +3,11 @@
 
 Dans le THS en DIY, bien que pour des raisons culturelles on s'injectait souvent en intra-musculaire par le passé, aujourd'hui la nouvelle meta est l'injection par voie **sous-cutanée**.
 
-C'est la seule méthode qui sera décrite dans ce guide. C'est une méthode peu invasive, semblable aux injection d'insuline que les diabétiques se font quotidiennement. Les seringues sont toutes petites (volume de 0,5 mL ou moins), les aiguilles très fines et courtes (8 mm). L'injection sous-cutanée est un geste simple qu'il est quasiment impossible de rater. Il n'est pas nécessaire de trouver une veine, de faire un z-track ou quoi que ce soit de ce genre. C'est une petite piqûre rapide dans un petit bourrelet de peau. 
+C'est la seule méthode qui sera décrite dans ce guide. C'est une méthode peu invasive, semblable aux injections d'insuline que les diabétiques se font plusieurs fois par jour. Les seringues sont toutes petites (volume de 0,5 mL ou moins), les aiguilles très fines et courtes (8 mm).
 
-Enfin, la quantité de produit à injecter est extrêmement faible (l'équivalent d'une à deux gouttes).
+L'injection sous-cutanée est un geste simple qu'il est quasiment impossible de rater. Il n'est pas nécessaire de trouver une veine, de faire un z-track ou quoi que ce soit de ce genre. C'est une petite piqûre rapide dans un petit bourrelet de peau. 
+
+Enfin, la quantité de solution à injecter est extrêmement faible (l'équivalent d'une à deux gouttes).
 
 En plus, cette piqûre n'est à faire qu'une fois par semaine ! 🙂
 
