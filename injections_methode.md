@@ -23,7 +23,7 @@ On pique toujours loin des seins. On pique toujours à plus de 3-4 cm du nombril
 3. Exposer la zone que tu vas injecter, prendre un nouveau tampon désinfectant et le passer sur la zone en décrivant des mouvements circulaires partant du centre et allant vers l'extérieur.
 4. Retirer les deux capuchons de la seringue.
 5. Prélever une quantité d'air ambiant égale au volume que tu vas s'injecter.
-6. Planter la seringue à angle droit dans la fiole.
+6. Planter la seringue à angle droit dans la fiole, si possible toujours à un nouveal endroit à chaque injection.
 7. Injecter dans la fiole le volume d'air prélevé, de manière à créer une légère surpression et faciliter le prélèvement.
 8. L'aiguille toujours dans la fiole, retourner la fiole tête en bas.
 9. Prélever un peu plus que le volume nécessaire (exemple si tu injectes 0,1 mL, prélèves  0,12 mL). La solution étant visqueuse, il se peut que ça mette 30 secondes, voir une minute ou deux à venir. Il faut juste être patient•e et laisser la gravité et la différence de pression faire leur travail.

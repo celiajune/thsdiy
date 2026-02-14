@@ -8,7 +8,7 @@ Peu importe que tu ais déjà commencé un THS sous une autre forme. Peu importe
 Ce dosage permet à une extrême majorité de personnes de n'être ni en sous-dosage, ni en grand surdosage. Il permet donc de démarrer sur une base saine. Il sera néanmoins à affiner à l'aide d'une prise de sang.
 
 ## Volume à injecter
-4 mg est une *masse* d'estradiol. En fonction de la concentration de la fiole, ça peut représenter un *volume* différent à injecter. Voici un calculateur qui te dira très simplement quel volume injecter : https://baotrans.fr/calcul-volume-masse-injection/
+4 mg est une *masse* d'estradiol. En fonction de la concentration d'estradiol de ta fiole, ça peut représenter un *volume* différent de solution à injecter. Voici un calculateur qui te dira très simplement quel volume injecter : https://baotrans.fr/calcul-volume-masse-injection/
 
 Tu remarqueras que dans tous les cas ça représente une volume extrêmement faible. L'équivalent d'une à deux gouttes. C'est normal.
 
