@@ -1,7 +1,7 @@
 # Les piqûres, ça fait peur 😭
 Ça c'est bien vrai ! Tout le monde a peur des seringues ou des aiguilles. C'est normal. Quelques précisions initiales permettront peut-être de commencer à atténuer cette peur naturelle.
 
-Dans le THS en DIY, bien que pour des raisons culturelles on s'injectait souvent en intra-musculaire par le passé, aujourd'hui la nouvelle meta est l'injection par voie **sous-cutanée**.
+Dans le THS en DIY, pour des raisons culturelles on s'injectait auparavant en intra-musculaire, et c'est encoe souvent le cas, par habitude. Néanmoins, aujourd'hui la nouvelle meta est l'injection par voie **sous-cutanée**.
 
 C'est la seule méthode qui sera décrite dans ce guide. C'est une méthode peu invasive, semblable aux injections d'insuline que les diabétiques se font plusieurs fois par jour. Les seringues sont toutes petites (volume de 0,5 mL ou moins), les aiguilles très fines et courtes (8 mm).
 

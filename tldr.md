@@ -1,6 +1,6 @@
 # Version ultra abrégée
 1. Commander une fiole d'énanthate d'estradiol (~ 60€, dure 12 à 18 mois).
-   ➡ Voir salon DIY du Discord Fransgenre, demander à une sœur, ou demander à une asso locale.
+   ➡ Voir https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable ou le salon DIY du Discord Fransgenre, demander à une sœur, ou demander à une asso locale.
 2. Commander : des seringues à insuline à aiguille montée, 29G ou 31G, 8 à 13 mm, d'un volume de 0,3 ou 0,5 mL; des tampons d'alcool à 70%; une boite DASRI (dispo gratuitement en pharmacie, qques € en ligne) pour jeter les seringues usagées (~ 20€ au total pour la même durée).
    ➡ https://www.distrimed.com ou https://www.robe-materiel-medical.com
 3. Technique d'injection : sous-cutané. S'injecter sur une des zones représentées ici : https://partagenre.fransgenre.fr/media/sites_SC_jw92WmW.png en suivant la technique décrite dans cette vidéo : https://www.youtube.com/watch?v=CQVg8Tv5yQ0

@@ -5,7 +5,7 @@ Peu importe que tu aies déjà commencé un THS sous une autre forme. Peu import
 
 ➡ **4 mg, une fois par semaine.** ⬅
 
-Ce dosage permet à une extrême majorité de personnes de n'être ni en sous-dosage, ni en grand surdosage. Il permet donc de démarrer sur une base saine. Il sera néanmoins à affiner à l'aide d'une prise de sang.
+Ce dosage permet à une extrême majorité de personnes de n'être ni en sous-dosage, ni en grand surdosage. Il permet donc de démarrer sur une base saine. Il sera néanmoins à affiner à l'aide d'une prise de sang après un mois.
 
 ## Volume à injecter
 4 mg est une *masse* d'estradiol. En fonction de la concentration d'estradiol de ta fiole, ça peut représenter un *volume* différent de solution à injecter. Voici un calculateur qui te dira très simplement quel volume injecter : https://baotrans.fr/calcul-volume-masse-injection/
