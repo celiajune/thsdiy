@@ -1,4 +1,5 @@
-* [Accueil](/)
+* [Sommaire](/)
+* [À qui s'adresse ce guide](/pour_qui.md "À qui s'adresse ce guide")
 * [Généralités](generalites.md)
 * [Les piqûres, ça fait peur 😭](diy_piqures_ca_fait_peur.md "Les piqûres, ça fait peur 😭")
 * [Choisir et acheter de l'estradiol injectable](choisir_et_acheter.md "Choisir et acheter de l'estradiol injectable")
@@ -8,9 +9,6 @@
 * [Injections : le matériel](injections_materiel.md "Injections : le matériel")
 * [Injections : la méthode](injections_methode.md "Injections : la méthode")
 * [Ressources additionnelles](ressources.md "Ressources additionnelles")
-
-
-
 * [Version abrégée](diy_tldr.md "Version abrégée")
 
 
