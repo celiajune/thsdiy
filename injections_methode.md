@@ -1,7 +1,7 @@
 # Injections : la méthode
 
 ## Ouvrir sa fiole la première fois
-La fiole est normalement fermée par un opercule en silicone (en noir dans l'illustration) recouvert d'un couvercle en métal (en vert dans l'illustration. Il va falloir ouvrir et enlever la partie centrale du couvercle en métal, que tu pourras jeter. La partie extérieure du métal reste. La fiole ne sera **jamais** ouverte. Seule l'aiguille de la seringue est destinée à y pénétrer, en étant enfoncée à travers l'opercule en silicone.
+La fiole est normalement fermée par un opercule en silicone (en noir dans l'illustration) recouvert d'un couvercle en métal (en vert dans l'illustration). Il va falloir ouvrir et enlever la partie centrale du couvercle en métal, que tu pourras jeter. La partie extérieure du métal reste. La fiole ne sera **jamais** ouverte. Seule l'aiguille de la seringue est destinée à y pénétrer, en étant enfoncée à travers l'opercule en silicone.
 
 ![Ouverture de l'opercule métallique d'une fiole de solution injectable](ouverture_fiole.png)
 
@@ -16,13 +16,12 @@ On pique toujours loin des seins. On pique toujours à plus de 3-4 cm du nombril
 
 ![Sites d'injection](sites_injection.png)
 
-
 ## Réaliser ton injection sous-cutanée : méthode point par point
-1. Te laver soigneusement les mains et préparer ton matériel : seringues, tampons alcoolisés, boite DASRI, fiole d'estradiol.
+1. Te laver soigneusement les mains et préparer ton matériel sur une surface propre : seringues, tampons alcoolisés, boite DASRI, fiole d'estradiol.
 2. Prendre un tampon désinfectant et nettoyer l'opercule en caoutchouc de la fiole.
 3. Exposer ta peau au niveau de la zone que tu vas injecter, prendre un nouveau tampon désinfectant et le passer sur la zone en décrivant des mouvements circulaires partant du centre et allant vers l'extérieur.
 4. Retirer les deux capuchons de la seringue.
-5. Prélever une quantité d'air ambiant égale au volume que tu vas s'injecter.
+5. Prélever une quantité d'air ambiant égale au volume que tu vas t'injecter.
 6. Planter la seringue à angle droit dans la fiole, si possible à un nouvel endroit à chaque injection.
 7. Injecter dans la fiole le volume d'air prélevé, de manière à créer une légère surpression et faciliter le prélèvement.
 8. L'aiguille toujours dans la fiole, retourner la fiole tête en bas.

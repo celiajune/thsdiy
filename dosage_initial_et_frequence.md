@@ -1,7 +1,7 @@
 # Dosage initial et fréquence d'injection
 Comme tu vas prendre de l'énanthate d'estradiol, tu vas t'injecter **4 mg une fois par semaine**.
 
-Peu importe que tu ais déjà commencé un THS sous une autre forme. Peu importe tes taux initiaux pré-THS. Peu importe les recommandations farfelues indiquées sur les sites de certain•e•s vendeureuses d'estradiol injectable.
+Peu importe que tu aies déjà commencé un THS sous une autre forme. Peu importe tes taux initiaux pré-THS. Peu importe les recommandations farfelues indiquées sur les sites de certain•e•s vendeureuses d'estradiol injectable.
 
 ➡ **4 mg, une fois par semaine.** ⬅
 

@@ -3,7 +3,7 @@ Après au moins 4 semaines à ce dosage initial, tu vas faire une prise de sang 
 
 Tu peux soit demander une ordonnance à ton médecin afin qu'elle te soit remboursée par l'assurance maladie, soit te présenter directement dans un laboratoire d'analyse médicale et demander à ce qu'on te fasse la prise de sang. Dans ce cas, tu devras la payer. Il faut compter quelques dizaines d'euros. Cet outil permet d'estimer le coût d'une prise de sang payée de ta poche : https://baotrans.fr/estimation-prix-prise-de-sang/
 
-La prise de sang se fait toujours en creux, c'est-à-dire au moment où ton taux d'estradiol sanguin sera le plus bas. Concrètement, c'est le le jour de ta prochaine injection *avant de réaliser cette dernière*, ou la veille de ton injection au pire. Tu comprends à présent l'intérêt de choisir un jour ouvrable pour ton injection.
+La prise de sang se fait toujours en creux, c'est-à-dire au moment où ton taux d'estradiol sanguin sera le plus bas. Concrètement, c'est le jour de ta prochaine injection *avant de réaliser cette dernière*, ou la veille de ton injection au pire. Tu comprends à présent l'intérêt de choisir un jour ouvrable pour ton injection.
 
 ## Taux visés
 ### Préambule
