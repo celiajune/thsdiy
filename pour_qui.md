@@ -5,7 +5,7 @@ Ce guide se veut très à cheval sur la réduction des risques (RdR), que ce soi
 
 Dans la section [ressources](./ressources) en fin de ce guide, tu trouveras pleins de choses supplémentaires à lire si tu le souhaites. Ces lectures ne sont pas obligatoires dans un premier temps, tout étant synthétisé dans le présent document.
 
-> Normalement tu es tombée sur ce site en connaissance de cause. Si toutefois tu es une personne trans totalement perdue et que tu n'a même pas idée de ce qu'est le DIY, je t'invite à consulter cette [brochure introductive](https://partagenre.fransgenre.fr/media/THS_en_DIY_fransgenre_avril_2025.pdf) avant de revenir lire la suite de ce document.
+> Normalement tu es tombé•e sur ce site en connaissance de cause. Si toutefois tu es une personne trans totalement perdue et que tu n'as même pas idée de ce qu'est le DIY, je t'invite à consulter cette [brochure introductive](https://partagenre.fransgenre.fr/media/THS_en_DIY_fransgenre_avril_2025.pdf) avant de revenir lire la suite.
 
 En parallèle de ce document, je t'encourage à te rapprocher des assos trans locales de ta région ainsi que du [serveur Discord](https://www.fransgenre.fr/website/social/discord) de l'association [Fransgenre](https://www.fransgenre.fr), sur lequel tu trouveras de la pairaidance de qualité.
 

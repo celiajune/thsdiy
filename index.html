@@ -16,10 +16,17 @@
   <!-- Custom Styles -->
   <style>
     body .docsify-pagination-container {
-      margin-top:0;
+      margin-top: 0;
     }
+
     :root {
       --base-font-size: 1.4rem;
+    }
+
+    @media all and (max-width: 750px) {
+      :root {
+        --base-font-size: 1.2rem;
+      }
     }
   </style>
 </head>
@@ -34,9 +41,9 @@
       loadSidebar: true,
       subMaxLevel: 3,
       pagination: {
-    previousText: 'Précédent',
-    nextText: 'Suivant',
-    },
+        previousText: 'Précédent',
+        nextText: 'Suivant',
+      },
 
     };
   </script>
