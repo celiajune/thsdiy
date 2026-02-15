@@ -1,5 +1,7 @@
 # THS-F en DIY : guide de démarrage
 
+[Accueil](https://celiajune.github.io/thsdiy/)
+
 * [À qui s'adresse ce guide](/pour_qui.md "À qui s'adresse ce guide")
 * [Généralités](generalites.md)
 * [Les piqûres, ça fait peur 😭](piqures_ca_fait_peur.md "Les piqûres, ça fait peur 😭")
