@@ -3,11 +3,12 @@
 
 https://diyhrt.market/meds/groups/estradiol-injections Acheter de l'estradiol injectable auprès de vendeurs ayant bonne réputation
 
-https://partagenre.fransgenre.fr/ressources/conservation-soin-fioles Conserver et prendre soin de ses fioles.
 
 https://transfemscience.org Tous les articles scientifiques concernant les transitions dites féminisantes, en anglais
 
 Dont cet article fondamental : https://transfemscience.org/articles/transfem-intro/
+
+https://transfemscience.org/articles/injectable-e2-meta-analysis/ "An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations"
 
 https://fr.pghrt.diy/ Guide récent assez exhaustif traduit en français. Lecture recommandée !
 
@@ -20,3 +21,5 @@ https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable Acheter
 https://partagenre.fransgenre.fr/ressources/prises-de-sang-diy Quelles analyses réaliser lors de mes prises de sang ?
 
 https://partagenre.fransgenre.fr/ressources/injection-im-sc Guides d'injection en sous-cutané et en intra-musculaire
+
+https://partagenre.fransgenre.fr/ressources/conservation-soin-fioles Conserver et prendre soin de ses fioles.

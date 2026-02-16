@@ -2,7 +2,7 @@
 ## Seringues
 Les seringues sont TOUJOURS à usage unique. Elles sont vendues stériles. Il n'est pas possible de les re-stériliser après usage. Une seringue ne se nettoie pas, ne se réutilise pas, ne se prête pas, ne se désinfecte pas. L'aiguille ne se ré-affûte pas non plus (oui, la question a déjà été posée).
 
-**Après utilisation, elles doivent immédiatement être jetées dans une boite adaptée appelée DASRI.** Elles ne doivent jamais être jetées à la poubelle normale, même avec le capuchon remis sur l'aiguille. Celui-ci peut facilement se détacher, rendant l'aiguille apparente. Les risques de blessure et d'infection envers le personnel qui traite les déchets est alors important.
+**Après utilisation, elles doivent immédiatement être jetées dans une boite adaptée appelée DASRI.** Elles ne doivent jamais être jetées à la poubelle normale, même avec le capuchon remis sur l'aiguille. Celui-ci peut facilement se détacher, rendant l'aiguille apparente. Les risques de blessure et d'infection envers le personnel qui collecte et traîte les déchets ménagers est alors important. 
 Les DASRI sont disponibles gratuitement en pharmacie. Ces dernières récupèrent également les boites pleines. Il est aussi possible d'acheter une DASRI sur les mêmes sites de vente que le reste du matériel, listés ci-dessous.
 
 Les seringues sont vendues par pack de 10, 30, 50, 100.
