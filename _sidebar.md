@@ -3,12 +3,12 @@
 * [Généralités](generalites.md)
 * [Les piqûres, ça fait peur 😭](piqures_ca_fait_peur.md "Les piqûres, ça fait peur 😭")
 * [Choisir et acheter de l'estradiol injectable](choisir_et_acheter.md "Choisir et acheter de l'estradiol injectable")
-* [Conservation de ta fiole](conservation_fiole.md "Conservation de ta fiole")
 * [Bloqueurs de testostérone / anti-androgènes](aa.md "Bloqueurs de testostérone / anti-androgènes")
 * [Dosage initial et fréquence d'injection](dosage_initial_et_frequence.md "Dosage initial et fréquence d'injection")
 * [Prises de sang et taux visés](prises_de_sang.md "Prises de sang")
 * [Injections : le matériel](injections_materiel.md "Injections : le matériel")
 * [Injections : la méthode](injections_methode.md "Injections : la méthode")
+* [Conservation de ta fiole](conservation_fiole.md "Conservation de ta fiole")
 * [Ressources additionnelles](ressources.md "Ressources additionnelles")
 * [Version abrégée](tldr.md "Version abrégée")
 

@@ -14,7 +14,7 @@ L'estérification permet donc le relâchement progressif dans l'organisme. Sans 
 
 Il existe plusieurs esters d'estradiol disponibles sur le marché. Leur différence principale réside dans la fréquence d'injection nécessaire pour garder des taux stables. Tu verras surtout ces noms : valérate, énanthate et undécylate d'estradiol.
 - Le valérate demande de s'injecter à intervalle <1 semaine. Ce n'est pas pratique. 
-- L'undécylate permet de s'injecter une seule fois par mois. *Super !?* **Non.** On n'a pour l'instant pas assez de recul sur sa pharmacocinétique. Les taux semblent être très instables dans le temps et totalement imprévisibles. Ce qu'on gagne en diminuant la fréquence des injections, on le perd en devant faire des prises de sang très régulièrement pour comprendre où en sont nos taux.
+- L'undécylate permet de s'injecter une seule fois par mois. *Super !?* **Non.** Pour l'instant, on n'a pas assez de recul sur sa pharmacocinétique. Les taux semblent être très instables dans le temps et totalement imprévisibles. Ce qu'on gagne en confort en diminuant la fréquence des injections, on le perd en devant faire des prises de sang très régulièrement pour comprendre où en sont nos taux.
 - **L'énanthate d'estradiol est la molécule à privilégier dans tous les cas.** Elle permet des taux stables avec une injection hebdomadaire. Sa pharmacocinétique est bien connue et assez prévisible.
 
 ### Les huiles
@@ -22,12 +22,12 @@ L'estérification rend la molécule lipophile : elle se lie aux huiles. C'est p
 
 Les huiles utilisées sont l'huile de ricin, l'huile de pépin de raisin ou l'huile MCT. Elles ont chacune leurs petites différences et leur viscosité, qui peut être modifiée par un fluidifiant au moment de la fabrication.
 
-**Dans un premier temps, tu t'en fous pas mal, du choix de l'huile** 😄
+**Dans un premier temps, tu vas préférer de l'estradiol solubilisé dans de l'huile MCT ou de l'huile de pépin de raisin, qui sont moins visqueuses et donc plus faciles à prélever dans la fiole. Néanmoins, ce n'est pas crucial** 😄
 
 ### Quantité à acheter
 L'estradiol injectable est vendu dans de petites fioles de verre.
 
-Les volumes injectés étant minuscules, une fiole de 10 mL dure généralement entre 12 et 18 mois. On trouve aussi des petites fioles de 5 mL. Ce n'est pas une mauvaise idée d'en prendre deux petites, afin d'en avoir une de secours en cas de détérioration de la première.
+Les volumes injectés étant minuscules, une fiole de 10 mL dure généralement entre 12 et 18 mois. On trouve aussi des petites fioles de 5 mL. Ce n'est pas une mauvaise idée d'en prendre deux petites si tu en as la possibilité, afin d'en avoir une de secours en cas de détérioration de la première.
 
 ## L'achat (comment, à qui ?)
 Je t'invite à lire le lien suivant, que je serais incapable de rendre plus court qu'il ne l'est déjà. Ça reprend ce qu'il faut savoir au moment de réaliser l'achat : https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable
