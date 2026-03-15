@@ -1,6 +1,6 @@
 # À qui s'adresse ce guide
 
->Normalement tu es tombé•e sur ce site en connaissance de cause. Si toutefois tu es totalement perdue et que tu n'as même pas idée de ce qu'est le DIY ou même le THS, je t'invite à consulter ces différents supports avant de revenir lire la suite :
+>Normalement tu es tombé•e sur ce site en connaissance de cause. Si toutefois tu es totalement perdu•e et que tu n'as même pas idée de ce qu'est le DIY ou même le THS, je t'invite à consulter ces différents supports avant de revenir lire la suite :
 >- [Brochure sur les transitions féminisantes](https://partagenre.fransgenre.fr/media/les_transitions_feminisantes_fransgenre_v-2-3.pdf)
 >- [THS à base d'oestrogènes](https://partagenre.fransgenre.fr/media/Module_3_partie_A___prescription_de_THS_-_oestro__version_au_14_11_2024.pdf)
 >- [Brochure introductive au DIY](https://partagenre.fransgenre.fr/media/THS_en_DIY_fransgenre_avril_2025.pdf) 

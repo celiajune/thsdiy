@@ -16,6 +16,10 @@ On pique toujours loin des seins. On pique toujours à plus de 3-4 cm du nombril
 
 ![Sites d'injection](sites_injection.png)
 
+Plus spécifiquement pour la cuisse, c'est sur l'avant, côté extérieur :
+
+![Injection cuisse](cuisse-subq.png)
+
 ## Réaliser ton injection sous-cutanée
 
 ### Illustration en vidéo

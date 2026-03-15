@@ -1,6 +1,6 @@
 # THS-F en DIY : guide de démarrage
 
-*Mise à jour : 12 mars 2026*
+*Mise à jour : 15 mars 2026*
 
 [Accueil](https://celiajune.github.io/thsdiy/)
 

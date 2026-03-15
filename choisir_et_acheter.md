@@ -30,4 +30,10 @@ L'estradiol injectable est vendu dans de petites fioles de verre.
 Les volumes injectés étant minuscules, une fiole de 10 mL dure généralement entre 12 et 18 mois. On trouve aussi des petites fioles de 5 mL. Ce n'est pas une mauvaise idée d'en prendre deux petites si tu en as la possibilité, afin d'en avoir une de secours en cas de détérioration de la première.
 
 ## L'achat (comment, à qui ?)
-Je t'invite à lire le lien suivant, que je serais incapable de rendre plus court qu'il ne l'est déjà. Ça reprend ce qu'il faut savoir au moment de réaliser l'achat : https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable
+
+Il existe une liste de fabricants/revendeurs ici : https://diyhrt.market/meds/groups/estradiol-injections  
+Tous nécéssitent un paiement en cryptomonnaie.
+
+Il existe aussi la possibilité de passer par des revendeurs•euses locaux qui permettent de payer en argent normal.
+
+Je t'invite à lire le lien suivant qui reprend ce qu'il faut savoir au moment de réaliser l'achat, sur les revendeurs, les cryptos : https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable
