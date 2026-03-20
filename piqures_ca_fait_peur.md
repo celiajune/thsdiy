@@ -12,3 +12,5 @@ Enfin, la quantité de solution à injecter est extrêmement faible (l'équivale
 En plus, cette piqûre n'est à faire qu'une fois par semaine ! 🙂
 
 La première injection est toujours difficile. On peut rester une heure avec la peau à l'air libre et la seringue remplie avant d'oser faire le geste. C'est normal, on est toustes passées par là. Au fil des semaines on s'habitue à réaliser le geste, jusqu'à ce qu'il finisse par devenir totalement routinier. Tu finiras par te piquer distraitement entre la pizza et le dessert 😄
+
+> Remarque : il peut y avoir des raisons pratiques à passer aux injections intra-musculaires. Mais ce n'est pas pertinent dans le cadre de ce guide de démarrage.

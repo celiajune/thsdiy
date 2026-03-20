@@ -20,6 +20,4 @@ https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable Acheter
 
 https://partagenre.fransgenre.fr/ressources/prises-de-sang-diy Quelles analyses réaliser lors de mes prises de sang ?
 
-https://partagenre.fransgenre.fr/ressources/injection-im-sc Guides d'injection en sous-cutané et en intra-musculaire
-
 https://partagenre.fransgenre.fr/ressources/conservation-soin-fioles Conserver et prendre soin de ses fioles.
