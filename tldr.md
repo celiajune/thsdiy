@@ -1,5 +1,5 @@
 # Version ultra abrégée
-1. Commander une fiole d'énanthate d'estradiol (~ 60€, dure 12 à 18 mois).  
+1. Commander une fiole d'énanthate d'estradiol dans de l'huile MCT (~ 50-60€, dure 12 à 18 mois).  
 ➡ Voir https://diyhrt.market/meds/groups/estradiol-injections ou https://partagenre.fransgenre.fr/ressources/acheter-estradiol-injectable ou le salon DIY du Discord Fransgenre, demander à une sœur, ou demander à une asso locale.
 2. Commander : des seringues à insuline à aiguille montée, 29G ou 31G, 8 à 13 mm, d'un volume de 0,3 ou 0,5 mL; des tampons d'alcool à 70%; une boite DASRI (dispo gratuitement en pharmacie, qques € en ligne) pour jeter les seringues usagées (~ 20€ au total pour la même durée).  
 ➡ https://www.distrimed.com ou https://www.robe-materiel-medical.com
